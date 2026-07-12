@@ -5,7 +5,7 @@ Pyrogram-юзербот для пересылки сообщений между 
 ## Запуск
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt # kurigram для работы pyrogram
 cp .env.example .env  # заполнить API_ID, API_HASH, ADMIN_ID
 python userbot.py
 # При первом запуске Pyrogram запросит номер телефона и код
